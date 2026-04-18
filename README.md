@@ -17,3 +17,6 @@ Shakespeare Tragedies from NLTK Gutenberg Corpus
 
 ## 🚀 Output
 Generated synthetic text similar to Shakespearean style
+
+Colab Notebook:-
+https://colab.research.google.com/drive/1eT_begr8TPuurfHKy73lPUU6M1bajxpU?usp=sharing
